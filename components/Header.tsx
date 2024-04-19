@@ -23,7 +23,7 @@ export default function Header() {
     >
       <div className="container mx-auto flex items-center justify-between">
         <section>
-          <h1 className='text-3xl font-medium'>Bank.c</h1>
+          <h1 className='text-3xl font-medium cursor-pointer'>Bank.c</h1>
         </section>
         <section>
           <Navbar />
