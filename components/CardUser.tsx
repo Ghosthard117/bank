@@ -11,7 +11,7 @@ export default function CardUser({ className, children }: CardUserProps) {
   return (
     <div
       className={cn(
-        'bg-slate-50 p-4 rounded-2xl shadow-2xl flex flex-col items-center justify-center gap-2',
+        'bg-slate-50 px-3 py-4 rounded-2xl shadow-2xl flex flex-col items-center justify-center gap-2',
         className
       )}
     >
