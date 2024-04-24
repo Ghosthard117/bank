@@ -1,4 +1,4 @@
-# Travel site
+# Hero Bank
 Hero Bank is a hero section designed for a bank, inspired by a Dribbble design. The layout is divided into three sections: newsletter, phone, and numbers, each carefully crafted using CSS grid for precise control over dimensions. With a mobile-first approach, I ensured seamless responsiveness across devices, utilizing Tailwind CSS and clsx for conditional styling. Flex properties were employed to maintain harmony in design, with each section dynamically adjusting its width and height.
 
 [![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://hero-bank.vercel.app/)
