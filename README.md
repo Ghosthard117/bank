@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Travel site
+Hero Bank is a hero section designed for a bank, inspired by a Dribbble design. The layout is divided into three sections: newsletter, phone, and numbers, each carefully crafted using CSS grid for precise control over dimensions. With a mobile-first approach, I ensured seamless responsiveness across devices, utilizing Tailwind CSS and clsx for conditional styling. Flex properties were employed to maintain harmony in design, with each section dynamically adjusting its width and height.
 
-## Getting Started
+[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://hero-bank.vercel.app/)
+[![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghosthard117/bank/)
 
-First, run the development server:
+## Tech Stack
+TypeScript
+React
+Next.js
+Tailwind CSS
+clsx
 
+# Screenshot
+![Screenshot 2024-04-19 195140](https://github.com/Ghosthard117/bank/assets/132961867/10ac577f-11c8-45c5-8fe4-b2600822ee2f)
+
+> Notes:
+>
+> Developed with a mobile-first design approach for optimal responsiveness.
+>
+> Utilized CSS grid for precise layout control and flexibility.
+>
+> Tailwind CSS and clsx were used for streamlined styling and conditional class application.
+>
+> Flex properties were employed to maintain design harmony and responsiveness.
+
+
+### Clone the project 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/Ghosthard117/bank.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 📄License
+Cannot be used commercially
